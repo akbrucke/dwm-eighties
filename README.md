@@ -21,7 +21,7 @@ sudo make clean install
 10. cd into dwm-flexipatch, run the same command
 11. cd into dwmblocks, run the same command
 12. cd into st-flexipatch, run the same command one more time
-13. Make an alias in your shell for "dbus-run-session startx ~/.xinitrc dwm"
+13. Make an alias in your shell config file for "dbus-run-session startx ~/.xinitrc dwm"
 14. Add that alias command to the end of your shell profile to automatically start dwm after logging in
 15. Disable any display managers
 16. Log out and log back in
