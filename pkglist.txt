@@ -1,0 +1,5 @@
+dunst
+feh
+picom
+xrdb
+xscreensaver

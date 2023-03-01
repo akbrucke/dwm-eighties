@@ -1,0 +1,4 @@
+arandr
+pipewire
+wireplumber
+xbindkeys
